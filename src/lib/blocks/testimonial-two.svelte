@@ -13,12 +13,10 @@
       class="relative z-10 mx-auto max-w-xl space-y-6 text-center md:space-y-12"
     >
       <h2 class="text-4xl font-medium lg:text-5xl">
-        Build by makers, loved by thousand developers
+        Testimonials
       </h2>
       <p>
-        Gemini is evolving to be more than just the models. It supports an
-        entire to the APIs and platforms helping developers and businesses
-        innovate.
+        More fancy text
       </p>
     </div>
 
@@ -28,42 +26,38 @@
       <Card
         class="grid grid-rows-[auto_1fr] gap-8 sm:col-span-2 sm:p-6 lg:row-span-2"
       >
-        <CardHeader>
-          <img
-            class="h-6 w-fit dark:invert"
-            src="https://html.tailus.io/blocks/customers/nike.svg"
-            alt="Nike Logo"
-            height="24"
-            width="auto"
-          />
-        </CardHeader>
+<!--        <CardHeader>-->
+<!--          <img-->
+<!--            class="h-6 w-fit dark:invert"-->
+<!--            src="https://html.tailus.io/blocks/customers/nike.svg"-->
+<!--            alt="Nike Logo"-->
+<!--            height="24"-->
+<!--            width="auto"-->
+<!--          />-->
+<!--        </CardHeader>-->
         <CardContent>
           <blockquote class="grid h-full grid-rows-[1fr_auto] gap-6">
             <p class="text-xl font-medium">
-              Tailus has transformed the way I develop web applications. Their
-              extensive collection of UI components, blocks, and templates has
-              significantly accelerated my workflow. The flexibility to
-              customize every aspect allows me to create unique user
-              experiences. Tailus is a game-changer for modern web development
+              "As a parent, keeping my kids safe is my top priority. SafeLock would give me peace of mind knowing that my firearm is secure and only accessible to me. I think the tracking and management features are excellent and would add an extra layer of security."
             </p>
 
             <div class="grid grid-cols-[auto_1fr] items-center gap-3">
               <Avatar class="size-12">
                 <AvatarImage
                   src="https://tailus.io/images/reviews/shekinah.webp"
-                  alt="Shekinah Tshiokufila"
+                  alt="Anonymous"
                   height="400"
                   width="400"
                   loading="lazy"
                 />
-                <AvatarFallback>ST</AvatarFallback>
+                <AvatarFallback>AY</AvatarFallback>
               </Avatar>
 
               <div>
-                <cite class="text-sm font-medium">Shekinah Tshiokufila</cite
+                <cite class="text-sm font-medium">Anonymous</cite
                 >
                 <span class="text-muted-foreground block text-sm"
-                  >Software Ingineer</span
+                  >30+ Year Gun Owner</span
                 >
               </div>
             </div>
@@ -74,8 +68,7 @@
         <CardContent class="h-full pt-6">
           <blockquote class="grid h-full grid-rows-[1fr_auto] gap-6">
             <p class="text-xl font-medium">
-              Tailus is really extraordinary and very practical, no need to
-              break your head. A real gold mine.
+              "Quick and secure access to my firearm is essential. A responsive biometric system like SafeLock, paired with the app's tracking feature would be a game-changer for anyone serious about firearm safety."
             </p>
 
             <div class="grid grid-cols-[auto_1fr] items-center gap-3">
@@ -87,12 +80,12 @@
                   width="400"
                   loading="lazy"
                 />
-                <AvatarFallback>JY</AvatarFallback>
+                <AvatarFallback>AY</AvatarFallback>
               </Avatar>
               <div>
-                <cite class="text-sm font-medium">Jonathan Yombo</cite>
+                <cite class="text-sm font-medium">Anonymous</cite>
                 <span class="text-muted-foreground block text-sm"
-                  >Software Ingineer</span
+                  >Law Enforcement Professional</span
                 >
               </div>
             </div>
@@ -103,8 +96,7 @@
         <CardContent class="h-full pt-6">
           <blockquote class="grid h-full grid-rows-[1fr_auto] gap-6">
             <p>
-              Great work on tailfolio template. This is one of the best personal
-              website that I have seen so far!
+              "The fingerprint technology that SafeLock has developed has an immense potential to be implemented in gun ranges and help more households to stay safe”
             </p>
 
             <div
@@ -118,47 +110,47 @@
                   width="400"
                   loading="lazy"
                 />
-                <AvatarFallback>YF</AvatarFallback>
+                <AvatarFallback>MG</AvatarFallback>
               </Avatar>
               <div>
-                <cite class="text-sm font-medium">Yucel Faruksahan</cite>
+                <cite class="text-sm font-medium">Mr. Gan</cite>
                 <span class="text-muted-foreground block text-sm"
-                  >Creator, Tailkits</span
+                  >NRA Certified Weapons Instructor</span
                 >
               </div>
             </div>
           </blockquote>
         </CardContent>
       </Card>
-      <Card class="card variant-mixed">
-        <CardContent class="h-full pt-6">
-          <blockquote class="grid h-full grid-rows-[1fr_auto] gap-6">
-            <p>
-              Great work on tailfolio template. This is one of the best personal
-              website that I have seen so far!
-            </p>
+<!--      <Card class="card variant-mixed">-->
+<!--        <CardContent class="h-full pt-6">-->
+<!--          <blockquote class="grid h-full grid-rows-[1fr_auto] gap-6">-->
+<!--            <p>-->
+<!--              Great work on tailfolio template. This is one of the best personal-->
+<!--              website that I have seen so far!-->
+<!--            </p>-->
 
-            <div class="grid grid-cols-[auto_1fr] gap-3">
-              <Avatar class="size-12">
-                <AvatarImage
-                  src="https://tailus.io/images/reviews/rodrigo.webp"
-                  alt="Rodrigo Aguilar"
-                  height="400"
-                  width="400"
-                  loading="lazy"
-                />
-                <AvatarFallback>YF</AvatarFallback>
-              </Avatar>
-              <div>
-                <p class="text-sm font-medium">Rodrigo Aguilar</p>
-                <span class="text-muted-foreground block text-sm"
-                  >Creator, TailwindAwesome</span
-                >
-              </div>
-            </div>
-          </blockquote>
-        </CardContent>
-      </Card>
+<!--            <div class="grid grid-cols-[auto_1fr] gap-3">-->
+<!--              <Avatar class="size-12">-->
+<!--                <AvatarImage-->
+<!--                  src="https://tailus.io/images/reviews/rodrigo.webp"-->
+<!--                  alt="Rodrigo Aguilar"-->
+<!--                  height="400"-->
+<!--                  width="400"-->
+<!--                  loading="lazy"-->
+<!--                />-->
+<!--                <AvatarFallback>YF</AvatarFallback>-->
+<!--              </Avatar>-->
+<!--              <div>-->
+<!--                <p class="text-sm font-medium">Rodrigo Aguilar</p>-->
+<!--                <span class="text-muted-foreground block text-sm"-->
+<!--                  >Creator, TailwindAwesome</span-->
+<!--                >-->
+<!--              </div>-->
+<!--            </div>-->
+<!--          </blockquote>-->
+<!--        </CardContent>-->
+<!--      </Card>-->
     </div>
   </div>
 </section>

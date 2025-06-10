@@ -52,47 +52,47 @@
             <h1
               class="mt-10 text-balance text-4xl font-bold md:text-5xl xl:text-5xl"
             >
-              Production Ready Digital Marketing blocks
+              Protect what matters most, with SafeLock
             </h1>
             <p class="mt-8">
-              Error totam sit illum. Voluptas doloribus asperiores quaerat
-              aperiam. Quidem harum omnis beatae ipsum soluta!
+              At SafeLock, our mission is to revolutionize firearm safety by providing innovative, accessible, and reliable solutions that encourage responsible storage practices.
             </p>
 
             <div>
+
               <form
                 action=""
                 class="mx-auto my-10 max-w-sm lg:my-12 lg:ml-0 lg:mr-auto"
               >
-                <div
-                  class="bg-background has-[input:focus]:ring-muted relative grid grid-cols-[1fr_auto] items-center rounded-[calc(var(--radius)+0.75rem)] border pr-3 shadow shadow-zinc-950/5 has-[input:focus]:ring-2"
-                >
-                  <Mail
-                    class="text-caption pointer-events-none absolute inset-y-0 left-5 my-auto size-5"
-                  />
+<!--                <div-->
+<!--                  class="bg-background has-[input:focus]:ring-muted relative grid grid-cols-[1fr_auto] items-center rounded-[calc(var(&#45;&#45;radius)+0.75rem)] border pr-3 shadow shadow-zinc-950/5 has-[input:focus]:ring-2"-->
+<!--                >-->
+<!--                  <Mail-->
+<!--                    class="text-caption pointer-events-none absolute inset-y-0 left-5 my-auto size-5"-->
+<!--                  />-->
 
-                  <input
-                    placeholder="Your mail address"
-                    class="h-14 w-full bg-transparent pl-12 focus:outline-none"
-                    type="email"
-                  />
+<!--                  <input-->
+<!--                    placeholder="Your mail address"-->
+<!--                    class="h-14 w-full bg-transparent pl-12 focus:outline-none"-->
+<!--                    type="email"-->
+<!--                  />-->
 
                   <div class="md:pr-1.5 lg:pr-0">
                     <Button aria-label="submit" class="rounded-(--radius)">
-                      <span class="hidden md:block">Get Started</span>
+                      <span class="hidden md:block">Support Us</span>
                       <SendHorizonal
                         class="relative mx-auto size-5 md:hidden"
                         strokeWidth={2}
                       />
                     </Button>
                   </div>
-                </div>
+<!--                </div>-->
               </form>
 
               <ul class="list-inside list-disc space-y-2">
                 <li>Faster</li>
                 <li>Modern</li>
-                <li>100% Customizable</li>
+                <li>100% Safe</li>
               </ul>
             </div>
           </div>
