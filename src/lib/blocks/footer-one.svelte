@@ -8,18 +8,12 @@
       title: "Solution",
       href: "#",
     },
-    {
-      title: "Customers",
-      href: "#",
-    },
+
     {
       title: "Pricing",
       href: "#",
     },
-    {
-      title: "Help",
-      href: "#",
-    },
+
     {
       title: "About",
       href: "#",
@@ -201,7 +195,7 @@
       </a>
     </div>
     <span class="text-muted-foreground block text-center text-sm">
-      © {new Date().getFullYear()} Tailus UI, All rights reserved</span
+      © {new Date().getFullYear()} SafeLock, All rights reserved</span
     >
   </div>
 </footer>

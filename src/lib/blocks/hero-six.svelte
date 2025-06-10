@@ -43,7 +43,7 @@
                 class="bg-muted rounded-[calc(var(--radius)-0.25rem)] px-2 py-1 text-xs"
                 >New</span
               >
-              <span class="text-sm">Introduction Tailark Html</span>
+              <span class="text-sm">New Blog Post</span>
               <span class="bg-(--color-border) block h-4 w-px"></span>
 
               <ArrowRight class="size-4" />
@@ -213,7 +213,7 @@
             <div
               class="flex w-full flex-col space-y-3 sm:flex-row sm:gap-3 sm:space-y-0 md:w-fit lg:border-l lg:pl-6"
             >
-              <Button size="sm">Login</Button>
+              <Button size="sm">Support Us</Button>
             </div>
             <Button onclick={toggleMode} variant="outline" size="icon">
               <SunIcon
