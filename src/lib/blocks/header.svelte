@@ -4,8 +4,7 @@ import Button from '../ui/button/button.svelte';
 	import Menu from "@lucide/svelte/icons/menu";
 	import X from "@lucide/svelte/icons/x";
 
-	import { toggleMode, setMode,mode } from 'mode-watcher';
-	import { SunIcon,MoonIcon } from '@lucide/svelte';
+	import { setMode } from 'mode-watcher';
 
 
 	let menuItems = [
@@ -13,6 +12,8 @@ import Button from '../ui/button/button.svelte';
 	{ name: "Blog", href: "/blog" },
 	];
 	let menuState = $state(false);
+	setMode("dark");
+
 
 
 </script>
@@ -108,15 +109,15 @@ import Button from '../ui/button/button.svelte';
 					>
 						<Button size="sm">Support Us</Button>
 					</div>
-					<Button onclick={toggleMode} variant="outline" size="icon">
-						<SunIcon
-							class="h-[1.2rem] w-[1.2rem] rotate-0 scale-100 transition-all dark:-rotate-90 dark:scale-0"
-						/>
-						<MoonIcon
-							class="absolute h-[1.2rem] w-[1.2rem] rotate-90 scale-0 transition-all dark:rotate-0 dark:scale-100"
-						/>
-						<span class="sr-only">Toggle theme</span>
-					</Button>
+<!--					<Button onclick={toggleMode} variant="outline" size="icon">-->
+<!--						<SunIcon-->
+<!--							class="h-[1.2rem] w-[1.2rem] rotate-0 scale-100 transition-all dark:-rotate-90 dark:scale-0"-->
+<!--						/>-->
+<!--						<MoonIcon-->
+<!--							class="absolute h-[1.2rem] w-[1.2rem] rotate-90 scale-0 transition-all dark:rotate-0 dark:scale-100"-->
+<!--						/>-->
+<!--						<span class="sr-only">Toggle theme</span>-->
+<!--					</Button>-->
 				</div>
 			</div>
 		</div>

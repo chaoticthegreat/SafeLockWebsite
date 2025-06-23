@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f6eda5b-479f-40b7-affc-94aa5b2bd63b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lib/assets/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/assets/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/components/blog/projects-item.svelte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/content/blogPosts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routes/blog/+page.svelte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routes/blog/[slug]/+page.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routes/blog/[slug]/+page.svelte" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1f6eda5b-479f-40b7-affc-94aa5b2bd63b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,7 +87,7 @@
       <workItem from="1750702012047" duration="312000" />
       <workItem from="1750702341293" duration="42000" />
       <workItem from="1750702398372" duration="9077000" />
-      <workItem from="1750716618884" duration="4531000" />
+      <workItem from="1750716618884" duration="4865000" />
     </task>
     <servers />
   </component>
