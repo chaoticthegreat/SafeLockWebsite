@@ -10,9 +10,7 @@ import Button from '../ui/button/button.svelte';
 
 	let menuItems = [
 	{ name: "Features", href: "/features" },
-	{ name: "Solution", href: "#a" },
-	{ name: "Pricing", href: "#a" },
-	{ name: "About", href: "#a" },
+	{ name: "Blog", href: "/blog" },
 	];
 	let menuState = $state(false);
 

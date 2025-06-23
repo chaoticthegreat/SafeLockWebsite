@@ -2,21 +2,11 @@
   const links = [
     {
       title: "Features",
-      href: "#",
+      href: "/features",
     },
     {
-      title: "Solution",
-      href: "#",
-    },
-
-    {
-      title: "Pricing",
-      href: "#",
-    },
-
-    {
-      title: "About",
-      href: "#",
+      title: "Blog",
+      href: "/blog",
     },
   ];
 </script>
