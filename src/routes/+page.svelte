@@ -8,6 +8,10 @@
     import CtaThree from "$lib/blocks/cta-three.svelte";
 </script>
 
+<svelte:head>
+	<title>Secure. Smart. Safelock.</title>
+</svelte:head>
+
 <div>
 	<HeroSix/>
 	<ContentOne/>

@@ -5,7 +5,9 @@
     let {data} = $props();
 </script>
 
-
+<svelte:head>
+    <title>{data.post.title}</title>
+</svelte:head>
 <article class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
     <!-- Blog Image -->
     <div class="mb-6">

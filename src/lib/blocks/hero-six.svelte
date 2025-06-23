@@ -32,7 +32,7 @@
                 class="bg-muted rounded-[calc(var(--radius)-0.25rem)] px-2 py-1 text-xs"
                 >New</span
               >
-              <span class="text-sm">Check out our newest post</span>
+              <span class="text-sm">{blogPosts[0].title}</span>
               <span class="bg-(--color-border) block h-4 w-px"></span>
 
               <ArrowRight class="size-4" />
