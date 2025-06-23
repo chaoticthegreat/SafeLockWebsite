@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f6eda5b-479f-40b7-affc-94aa5b2bd63b" name="Changes" comment="" />
+    <list default="true" id="1f6eda5b-479f-40b7-affc-94aa5b2bd63b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/static/yabadabadoo.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/blocks/hero-six.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/blocks/hero-six.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/+layout.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/+layout.svelte" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +67,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-WS-251.25410.117" />
+        <option value="bundled-js-predefined-d6986cc7102b-b26f3e71634d-JavaScript-WS-251.26094.131" />
       </set>
     </attachedChunks>
   </component>
@@ -74,7 +79,11 @@
       <option name="presentableId" value="Default" />
       <updated>1749567685044</updated>
       <workItem from="1749567686178" duration="447000" />
-      <workItem from="1749568144524" duration="11422000" />
+      <workItem from="1749568144524" duration="14950000" />
+      <workItem from="1749592597005" duration="741000" />
+      <workItem from="1750702012047" duration="312000" />
+      <workItem from="1750702341293" duration="42000" />
+      <workItem from="1750702398372" duration="4046000" />
     </task>
     <servers />
   </component>
