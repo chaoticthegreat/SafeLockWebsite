@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f6eda5b-479f-40b7-affc-94aa5b2bd63b" name="Changes" comment="" />
+    <list default="true" id="1f6eda5b-479f-40b7-affc-94aa5b2bd63b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/lib/blocks/hero-six.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/blocks/hero-six.svelte" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,7 +89,7 @@
       <workItem from="1750702012047" duration="312000" />
       <workItem from="1750702341293" duration="42000" />
       <workItem from="1750702398372" duration="9077000" />
-      <workItem from="1750716618884" duration="4865000" />
+      <workItem from="1750716618884" duration="5164000" />
     </task>
     <servers />
   </component>

@@ -13,14 +13,7 @@
   import Mail from "@lucide/svelte/icons/mail";
   import SendHorizonal from "@lucide/svelte/icons/send-horizontal";
 
-
-  let menuItems = [
-    { name: "Features", href: "#a" },
-    { name: "Solution", href: "#a" },
-    { name: "Pricing", href: "#a" },
-    { name: "About", href: "#a" },
-  ];
-  let menuState = $state(false);
+  import {blogPosts} from "$lib/content/blogPosts.js";
 </script>
 
 <div>
@@ -32,14 +25,14 @@
             class="relative z-10 mx-auto max-w-xl text-center lg:ml-0 lg:w-1/2 lg:text-left"
           >
             <a
-              href="/"
+              href="/blog/{blogPosts[0].slug}"
               class="rounded-(--radius) mx-auto flex w-fit items-center gap-2 border p-1 pr-3 lg:ml-0"
             >
               <span
                 class="bg-muted rounded-[calc(var(--radius)-0.25rem)] px-2 py-1 text-xs"
                 >New</span
               >
-              <span class="text-sm">New Blog Post</span>
+              <span class="text-sm">Check out our newest post</span>
               <span class="bg-(--color-border) block h-4 w-px"></span>
 
               <ArrowRight class="size-4" />
