@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f6eda5b-479f-40b7-affc-94aa5b2bd63b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/static/yabadabadoo.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/app.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/blocks/hero-six.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/blocks/hero-six.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/blocks/content-three.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/blocks/content-three.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/blocks/feature-one.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/blocks/feature-one.svelte" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/routes/+layout.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/+layout.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/+page.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/+page.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/features/+page.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/features/+page.svelte" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +86,7 @@
       <workItem from="1749592597005" duration="741000" />
       <workItem from="1750702012047" duration="312000" />
       <workItem from="1750702341293" duration="42000" />
-      <workItem from="1750702398372" duration="4046000" />
+      <workItem from="1750702398372" duration="7618000" />
     </task>
     <servers />
   </component>

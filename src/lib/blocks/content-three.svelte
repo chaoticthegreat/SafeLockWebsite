@@ -18,7 +18,7 @@
           SafeLock is a cutting-edge biometric gun lock designed to enhance firearm security while maintaining accessibility. With its sleek, lightweight design and advanced technology, SafeLock offers gun owners peace of mind, ensuring that firearms can only be accessed by registered users.
         </p>
 
-        <Button href="#" variant="secondary" size="sm" class="gap-1 pr-1.5">
+        <Button href="#more" variant="secondary" size="sm" class="gap-1 pr-1.5">
           <span>Learn More</span>
           <ChevronRight class="size-2" />
         </Button>
