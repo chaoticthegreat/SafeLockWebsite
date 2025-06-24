@@ -29,9 +29,10 @@ import Button from '../ui/button/button.svelte';
 				<div class="flex w-full justify-between lg:w-auto">
 					<a href="/" aria-label="home" class="flex items-center space-x-2">
 						<img
+								class="rounded-lg"
 							src="/favicon.png"
-							width="22"
-							height="22"
+							width="60"
+							height="60"
 							alt="SafeLock Logo"
 
 						>

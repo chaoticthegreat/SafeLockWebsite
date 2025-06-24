@@ -15,9 +15,10 @@
   <div class="mx-auto max-w-5xl px-6">
     <a href="/" aria-label="go home" class="mx-auto block size-fit">
       <img
+              class="rounded-lg"
               src="/favicon.png"
-              width="22"
-              height="22"
+              width="60"
+              height="60"
               alt="SafeLock Logo"
 
       >
@@ -35,7 +36,7 @@
     </div>
     <div class="my-8 flex flex-wrap justify-center gap-6 text-sm">
       <a
-        href="#"
+        href="/"
         target="_blank"
         rel="noopener noreferrer"
         aria-label="X/Twitter"
@@ -55,7 +56,7 @@
         </svg>
       </a>
       <a
-        href="#"
+        href="/"
         target="_blank"
         rel="noopener noreferrer"
         aria-label="aedIn"
@@ -75,7 +76,7 @@
         </svg>
       </a>
       <a
-        href="#"
+        href="/"
         target="_blank"
         rel="noopener noreferrer"
         aria-label="Facebook"
@@ -95,7 +96,7 @@
         </svg>
       </a>
       <a
-        href="#"
+        href="/"
         target="_blank"
         rel="noopener noreferrer"
         aria-label="Threads"
@@ -120,7 +121,7 @@
         </svg>
       </a>
       <a
-        href="#"
+        href="/"
         target="_blank"
         rel="noopener noreferrer"
         aria-label="Instagram"
@@ -140,7 +141,7 @@
         </svg>
       </a>
       <a
-        href="#"
+        href="/"
         target="_blank"
         rel="noopener noreferrer"
         aria-label="TikTok"
