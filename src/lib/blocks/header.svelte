@@ -84,7 +84,7 @@ import Button from '../ui/button/button.svelte';
 					<div
 						class="flex w-full flex-col space-y-3 sm:flex-row sm:gap-3 sm:space-y-0 md:w-fit lg:border-l lg:pl-6"
 					>
-						<Button size="sm">Support Us</Button>
+						<Button size="sm" href="https://forms.gle/iKnK2U7AwRsySWqU9">Support Us</Button>
 					</div>
 <!--					<Button onclick={toggleMode} variant="outline" size="icon">-->
 <!--						<SunIcon-->
