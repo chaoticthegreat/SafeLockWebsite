@@ -5,7 +5,7 @@
     import ContentOne from "$lib/blocks/content-one.svelte";
     import TestimonialTwo from "$lib/blocks/testimonial-two.svelte";
     import TeamTwo from "$lib/blocks/team-two.svelte";
-    import CtaThree from "$lib/blocks/cta-three.svelte";
+    import ContactUs from "$lib/blocks/contact-us.svelte";
     import Sponsors from "$lib/blocks/sponsors.svelte";
     import Video from "$lib/blocks/video.svelte";
 </script>
@@ -21,5 +21,5 @@
     <Video/>
 	<TestimonialTwo/>
 	<TeamTwo/>
-	<CtaThree/>
+	<ContactUs/>
 </div>

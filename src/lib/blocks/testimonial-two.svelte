@@ -49,7 +49,7 @@
     };
 </script>
 
-<section class="py-16 md:py-32" on:keydown={handleKey} tabindex="0">
+<section class="py-16 md:py-32" on:keydown={handleKey}>
     <div class="mx-auto max-w-4xl px-6 text-center space-y-12">
 
         <div class="relative">
@@ -108,7 +108,7 @@
                 <button
                         class={`h-2 w-2 rounded-full transition-colors ${index === current ? 'bg-primary' : 'bg-muted'}`}
                         on:click={() => current = index}
-                />
+                ></button>
             {/each}
         </div>
     </div>
