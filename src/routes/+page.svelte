@@ -6,6 +6,7 @@
     import TestimonialTwo from "$lib/blocks/testimonial-two.svelte";
     import TeamTwo from "$lib/blocks/team-two.svelte";
     import CtaThree from "$lib/blocks/cta-three.svelte";
+    import Sponsors from "$lib/blocks/sponsors.svelte";
 </script>
 
 <svelte:head>
@@ -15,6 +16,7 @@
 <div>
 	<HeroSix/>
 	<ContentOne/>
+    <Sponsors/>
 	<TestimonialTwo/>
 	<TeamTwo/>
 	<CtaThree/>
