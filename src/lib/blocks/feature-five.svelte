@@ -32,10 +32,10 @@
         </ul>
       </div>
       <div
-        class="border-border/50 relative rounded-3xl border p-3 lg:col-span-3"
+        class=" relative rounded-3xl  p-3 lg:col-span-3"
       >
         <div
-          class="bg-linear-to-b aspect-76/59 relative rounded-2xl from-zinc-300 to-transparent p-px dark:from-zinc-700"
+          class="bg-linear-to-b aspect-76/59 relative rounded-2xl from-zinc-300 to-transparent p-px dark:from-black"
         >
           <img
             src="/app.png"
