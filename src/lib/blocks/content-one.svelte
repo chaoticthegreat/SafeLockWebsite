@@ -1,3 +1,6 @@
+<script>
+</script>
+
 <section class="py-16 md:py-32">
   <div class="mx-auto max-w-5xl space-y-8 px-6 md:space-y-16">
     <h2 class="relative z-10 max-w-xl text-4xl font-medium lg:text-5xl">
@@ -20,19 +23,22 @@
       </div>
 
       <div class="relative space-y-4">
-        <p class="text-muted-foreground">
+          <h2 class="relative z-10 max-w-xl text-3xl font-bold lg:text-4xl">
+              Meet Safelock
+          </h2>
+        <p class="text-xl">
           SafeLock is a cutting-edge biometric gun lock designed to keep firearms secure and accessible only to authorized users. Combining advanced fingerprint technology with a  <span
-            class="text-accent-foreground font-bold"
+            class=""
             >durable, lightweight design,</span
           > SafeLock ensures quick, reliable access while preventing unauthorized use.
         </p>
-        <p class="text-muted-foreground">
+        <p class="text-xl">
           Guided by a commitment to protecting lives and fostering community safety, SafeLock strives to make firearm security simple, effective, and universal.
         </p>
 
         <div class="pt-6">
           <blockquote class="border-l-4 pl-4">
-            <p>
+            <p class="text-xl">
               According to the Brady Campaign, if just 20% of parents locked household firearms, 32% of firearm suicides and unintentional fatalities could be prevented.
             </p>
 

@@ -67,7 +67,7 @@
 <!--                  />-->
 
                   <div class="md:pr-1.5 lg:pr-0">
-                    <Button aria-label="submit" class="rounded-(--radius)">
+                    <Button  href="https://forms.gle/iKnK2U7AwRsySWqU9" aria-label="submit" class="rounded-(--radius)">
                       <span class="hidden md:block">Support Us</span>
                       <SendHorizonal
                         class="relative mx-auto size-5 md:hidden"
