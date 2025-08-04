@@ -77,12 +77,7 @@
                   </div>
 <!--                </div>-->
               </form>
-
-              <ul class="list-inside list-disc space-y-2">
-                <li>Faster</li>
-                <li>Modern</li>
-                <li>100% Safe</li>
-              </ul>
+                
             </div>
           </div>
         </div>
