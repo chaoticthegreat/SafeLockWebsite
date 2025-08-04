@@ -10,82 +10,20 @@
                 class="mx-auto mt-20 flex max-w-4xl flex-wrap items-center justify-center gap-x-12 gap-y-8 sm:gap-x-16 sm:gap-y-12"
         >
             <img
-                    class="h-5 w-fit dark:invert"
-                    src="https://html.tailus.io/blocks/customers/nvidia.svg"
-                    alt="Nvidia Logo"
+                    class="h-20 w-fit rounded-2xl hover:scale-125"
+                    src="https://blueoceancompetition.org/wp-content/uploads/2024/05/Blue-Ocean-Competition-Logo.png"
+                    alt="Blue Ocean Logo"
                     height="20"
                     width="auto"
             />
             <img
-                    class="h-4 w-fit dark:invert"
-                    src="https://html.tailus.io/blocks/customers/column.svg"
-                    alt="Column Logo"
-                    height="16"
-                    width="auto"
-            />
-            <img
-                    class="h-4 w-fit dark:invert"
-                    src="https://html.tailus.io/blocks/customers/github.svg"
-                    alt="GitHub Logo"
-                    height="16"
-                    width="auto"
-            />
-            <img
-                    class="h-5 w-fit dark:invert"
-                    src="https://html.tailus.io/blocks/customers/nike.svg"
-                    alt="Nike Logo"
+                    class="h-20 w-fit rounded-2xl hover:scale-125"
+                    src="https://assets.biola.edu/4396738754672012438/attachment/5fa43caf97f6410001fb2a8a/preferred-logo-horizontal.jpg"
+                    alt="Biola University Logo"
                     height="20"
                     width="auto"
             />
-            <img
-                    class="h-4 w-fit dark:invert"
-                    src="https://html.tailus.io/blocks/customers/laravel.svg"
-                    alt="Laravel Logo"
-                    height="16"
-                    width="auto"
-            />
-            <img
-                    class="h-7 w-fit dark:invert"
-                    src="https://html.tailus.io/blocks/customers/lilly.svg"
-                    alt="Lilly Logo"
-                    height="28"
-                    width="auto"
-            />
-            <img
-                    class="h-5 w-fit dark:invert"
-                    src="https://html.tailus.io/blocks/customers/lemonsqueezy.svg"
-                    alt="Lemon Squeezy Logo"
-                    height="20"
-                    width="auto"
-            />
-            <img
-                    class="h-6 w-fit dark:invert"
-                    src="https://html.tailus.io/blocks/customers/openai.svg"
-                    alt="OpenAI Logo"
-                    height="24"
-                    width="auto"
-            />
-            <img
-                    class="h-4 w-fit dark:invert"
-                    src="https://html.tailus.io/blocks/customers/tailwindcss.svg"
-                    alt="Tailwind CSS Logo"
-                    height="16"
-                    width="auto"
-            />
-            <img
-                    class="h-5 w-fit dark:invert"
-                    src="https://html.tailus.io/blocks/customers/vercel.svg"
-                    alt="Vercel Logo"
-                    height="20"
-                    width="auto"
-            />
-            <img
-                    class="h-5 w-fit dark:invert"
-                    src="https://html.tailus.io/blocks/customers/zapier.svg"
-                    alt="Zapier Logo"
-                    height="20"
-                    width="auto"
-            />
+
         </div>
     </div>
 </section>
