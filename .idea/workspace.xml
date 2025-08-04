@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f6eda5b-479f-40b7-affc-94aa5b2bd63b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/lib/blocks/video.svelte" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/blocks/sponsors.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/blocks/sponsors.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/+page.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/+page.svelte" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +20,7 @@
         <option value="TypeScript File" />
         <option value="JavaScript File" />
         <option value="sponsors" />
+        <option value="video" />
       </list>
     </option>
   </component>
@@ -97,7 +99,7 @@
       <workItem from="1750745605887" duration="482000" />
       <workItem from="1754336430294" duration="560000" />
       <workItem from="1754337688660" duration="120000" />
-      <workItem from="1754337821294" duration="1904000" />
+      <workItem from="1754337821294" duration="2708000" />
     </task>
     <servers />
   </component>
