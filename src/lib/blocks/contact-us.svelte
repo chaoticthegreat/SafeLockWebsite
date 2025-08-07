@@ -14,7 +14,7 @@
       <form action="" class="mx-auto mt-10 max-w-sm lg:mt-12">
 
           <div class="md:pr-1.5 lg:pr-0">
-            <Button  aria-label="submit" class="rounded-(--radius) py-6 px-10" href="mailto:hannahli866@gmail.com">
+            <Button  aria-label="submit" class="rounded-(--radius) py-6 px-10" href="https://forms.gle/iKnK2U7AwRsySWqU9">
               <span class="hidden md:block text-lg">Fill out this form</span>
               <svg
                 xmlns="http://www.w3.org/2000/svg"
