@@ -12,6 +12,7 @@
           <h2 class="text-4xl font-semibold lg:text-5xl">
             Meet the App
           </h2>
+            <h3 class ="text-2xl italic">Your Partner in Firearm Safety</h3>
           <p class="mt-6 text-xl">
             The SafeLock app is your ultimate tool for firearm accountability and control. The SafeLock app is your ultimate tool for firearm accountability and control.
           </p>
