@@ -21,7 +21,7 @@
     {
       name: "Ryan Abraham",
       role: "Software Lead",
-      avatar: "https://alt.tailus.io/images/team/member-four.webp",
+      avatar: "/ryan.jpg",
       link: "#",
     },
   ];

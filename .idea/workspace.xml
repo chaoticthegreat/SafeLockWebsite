@@ -29,12 +29,12 @@
     &quot;assignee&quot;: &quot;chaoticthegreat&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/chaoticthegreat/SafeLockWebsite.git&quot;,
-    &quot;accountId&quot;: &quot;02dc6470-0fef-432d-978f-b5e007eb0385&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/chaoticthegreat/SafeLockWebsite.git",
+    "accountId": "c2f5325c-4a1d-4841-b80b-8bd84e211ce9"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -59,7 +59,7 @@
     "nodejs_package_manager_path": "pnpm",
     "prettierjs.PrettierConfiguration.Package": "/Users/ryanabraham/Downloads/SafeLockWebsite/node_modules/prettier",
     "settings.editor.selected.configurable": "preferences.pluginManager",
-    "ts.external.directory.path": "C:\\Users\\Ryan\\AppData\\Local\\Programs\\WebStorm\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "ts.external.directory.path": "/Users/ryanabraham/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -96,6 +96,7 @@
       <workItem from="1754336430294" duration="560000" />
       <workItem from="1754337688660" duration="120000" />
       <workItem from="1754337821294" duration="5396000" />
+      <workItem from="1754503715772" duration="647000" />
     </task>
     <servers />
   </component>
