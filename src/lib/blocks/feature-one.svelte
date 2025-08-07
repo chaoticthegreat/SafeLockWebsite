@@ -10,7 +10,7 @@
       <h2 class="text-balance text-4xl font-semibold lg:text-5xl">
         How it works
       </h2>
-      <p class="mt-4">
+      <p class="mt-4 text-xl">
         SafeLock seamlessly combines hardware innovation and app connectivity. The lock attaches securely to the trigger of the firearm, disabling it until unlocked by a verified fingerprint.
       </p>
     </div>
@@ -24,11 +24,11 @@
             <Fingerprint class="size-6" aria-hidden/>
           </CardDecorator>
 
-          <h3 class="mt-6 font-medium">Biometric Access</h3>
+          <h3 class="mt-6 font-bold text-2xl">Biometric Access</h3>
         </CardHeader>
 
         <CardContent>
-          <p class="text-sm">
+          <p class="text-lg">
             Using a capacitive fingerprint sensor, SafeLock verifies the registered user in just 0.2 seconds.
           </p>
         </CardContent>
@@ -36,7 +36,7 @@
         <Card class="group shadow-zinc-950/5 ">
             <CardHeader class="">
                 <img
-                        class="rounded-(--radius) rotate-y-6"
+                        class="rounded-(--radius) rotate-y-6 pt-10"
                         src="https://static.wixstatic.com/media/9c5898_acb9602d18314922955ea18187f6a686~mv2.png/v1/fill/w_826,h_862,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/Screenshot%202025-01-10%20at%208_14_edited.png"
                         alt="team image"
                         height=""
@@ -54,11 +54,11 @@
             <ShieldCheck class="size-6" aria-hidden />
           </CardDecorator>
 
-          <h3 class="mt-6 font-medium">Tamper-Proof Design</h3>
+          <h3 class="mt-6 font-bold text-2xl">Tamper-Proof Design</h3>
         </CardHeader>
 
         <CardContent>
-          <p class=" text-sm">
+          <p class=" text-lg">
             The durable locking mechanism, powered by leadscrew actuators, clamps securely around the trigger guard, preventing unauthorized use.
           </p>
         </CardContent>
@@ -70,11 +70,11 @@
             <BatteryCharging class="size-6" aria-hidden />
           </CardDecorator>
 
-          <h3 class="mt-6 font-medium">Battery and Failsafe</h3>
+          <h3 class="mt-6 font-bold text-2xl">Battery and Failsafe</h3>
         </CardHeader>
 
         <CardContent>
-          <p class="text-sm">
+          <p class="text-lg">
             Operates on a long-lasting rechargeable battery with a mechanical key backup for emergencies.
           </p>
         </CardContent>
@@ -82,7 +82,7 @@
         <Card class="group shadow-zinc-950/5 ">
             <CardHeader class="pt-16">
                 <img
-                        class="rounded-(--radius) rotate-y-6"
+                        class="rounded-(--radius) rotate-y-6 pt-10"
                         src="https://static.wixstatic.com/media/9c5898_8b94c800cfa94ee4adb8ae2737327032~mv2.png/v1/fill/w_638,h_514,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Screenshot%202025-01-07%20at%2011_14_edited_pn.png"
                         alt="team image"
                         height=""
@@ -99,11 +99,11 @@
             <Smartphone class="size-6" aria-hidden />
           </CardDecorator>
 
-          <h3 class="mt-6 font-medium">Companion App</h3>
+          <h3 class="mt-6 font-bold text-2xl">Companion App</h3>
         </CardHeader>
 
         <CardContent>
-          <p class="text-sm">
+          <p class="text-lg">
             Provides real-time updates, including location tracking and notifications of lock access attempts.
           </p>
         </CardContent>

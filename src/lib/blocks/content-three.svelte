@@ -4,25 +4,25 @@
 </script>
 
 <section class="py-16 md:py-16">
-  <div class="mx-auto max-w-5xl space-y-8 px-6 md:space-y-12">
-    <video  width="1920" height="1080" loop="true" autoplay="autoplay" muted>
-      <source src="/yabadabadoo.mp4" type="video/mp4" />
-    </video>
+    <div class="mx-auto max-w-5xl space-y-8 px-6 md:space-y-12">
 
-    <div class="grid gap-6 md:grid-cols-2 md:gap-12">
-      <h2 class="text-4xl font-medium">
-        Secure. Smart. SafeLock.
-      </h2>
-      <div class="space-y-6">
-        <p>
-          SafeLock is a cutting-edge biometric gun lock designed to enhance firearm security while maintaining accessibility. With its sleek, lightweight design and advanced technology, SafeLock offers gun owners peace of mind, ensuring that firearms can only be accessed by registered users.
-        </p>
+        <!-- Heading -->
+        <h2 class="text-6xl font-bold text-center pb-10">
+            Secure. Smart. SafeLock.
+        </h2>
 
-<!--        <Button href="#more" variant="secondary" size="sm" class="gap-1 pr-1.5">-->
-<!--          <span>Learn More</span>-->
-<!--          <ChevronRight class="size-2" />-->
-<!--        </Button>-->
-      </div>
+        <!-- Video -->
+        <video width="100%" height="auto" loop autoplay muted class="rounded-lg shadow-lg">
+            <source src="/yabadabadoo.mp4" type="video/mp4" />
+        </video>
+
+        <!-- Main Text -->
+        <div class="max-w-3xl mx-auto  items-center">
+            <p class =" text-xl">
+                SafeLock is a cutting-edge biometric gun lock designed to enhance firearm security while maintaining accessibility. With its sleek, lightweight design and advanced technology, SafeLock offers gun owners peace of mind, ensuring that firearms can only be accessed by registered users.
+            </p>
+        </div>
+
     </div>
-  </div>
 </section>
+

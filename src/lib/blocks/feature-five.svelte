@@ -12,11 +12,11 @@
           <h2 class="text-4xl font-semibold lg:text-5xl">
             Meet the App
           </h2>
-          <p class="mt-6">
+          <p class="mt-6 text-xl">
             The SafeLock app is your ultimate tool for firearm accountability and control. The SafeLock app is your ultimate tool for firearm accountability and control.
           </p>
         </div>
-        <ul class="mt-8 divide-y border-y *:flex *:items-center *:gap-3 *:py-3">
+        <ul class="mt-8 divide-y border-y *:flex *:items-center *:gap-3 *:py-3 text-xl">
           <li>
             <MapPinHouse class="size-5" />
             Real Time Location Tracking
