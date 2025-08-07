@@ -49,7 +49,7 @@
     };
 </script>
 
-<section class="py-16 md:py-32" on:keydown={handleKey}>
+<section class="py-16 md:py-32" on:keydown={handleKey} tabindex="0">
     <div class="mx-auto max-w-4xl px-6 text-center space-y-12">
 
         <div class="relative">
@@ -69,8 +69,8 @@
                                     <div class="text-left">
                                         <cite class="text-sm font-medium">{t.name}</cite>
                                         <span class="block text-sm text-muted-foreground">
-                      {t.title}
-                    </span>
+                                            {t.title}
+                                        </span>
                                     </div>
                                 </div>
                             </blockquote>
@@ -81,33 +81,36 @@
                 {/if}
             {/each}
 
-            <!-- Navigation buttons -->
-            <div class="absolute inset-y-0 left-0 flex items-center pl-2">
+            <div class="absolute -left-4 md:-left-12 top-1/2 -translate-y-1/2">
                 <button
                         on:click={prev}
-                        class="rounded-full p-2 hover:bg-muted transition"
-                        aria-label="Previous"
+                        class="rounded-full p-2 bg-background/60 backdrop-blur-sm border hover:bg-muted transition"
+                        aria-label="Previous testimonial"
                 >
-                    &lt;
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+                        <path fill-rule="evenodd" d="M12.707 5.293a1 1 0 010 1.414L9.414 10l3.293 3.293a1 1 0 01-1.414 1.414l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 0z" clip-rule="evenodd" />
+                    </svg>
                 </button>
             </div>
-            <div class="absolute inset-y-0 right-0 flex items-center pr-2">
+            <div class="absolute -right-4 md:-right-12 top-1/2 -translate-y-1/2">
                 <button
                         on:click={next}
-                        class="rounded-full p-2 hover:bg-muted transition"
-                        aria-label="Next"
+                        class="rounded-full p-2 bg-background/60 backdrop-blur-sm border hover:bg-muted transition"
+                        aria-label="Next testimonial"
                 >
-                    &gt;
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+                        <path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd" />
+                    </svg>
                 </button>
             </div>
         </div>
 
-        <!-- Dots indicator -->
         <div class="flex justify-center gap-2 mt-6">
             {#each testimonials as _, index}
                 <button
-                        class={`h-2 w-2 rounded-full transition-colors ${index === current ? 'bg-primary' : 'bg-muted'}`}
+                        class={`h-2 w-2 rounded-full transition-colors ${index === current ? 'bg-primary' : 'bg-muted-foreground/50'}`}
                         on:click={() => current = index}
+                        aria-label="Go to testimonial {index + 1}"
                 ></button>
             {/each}
         </div>
