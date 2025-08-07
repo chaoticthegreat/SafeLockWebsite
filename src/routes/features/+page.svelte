@@ -3,6 +3,7 @@
     import FeatureOne from '$lib/blocks/feature-one.svelte';
     import FeatureEleven from '$lib/blocks/feature-eleven.svelte';
     import FeatureFive from '$lib/blocks/feature-five.svelte';
+    import FeatureWhy from "$lib/blocks/feature-whysafelock.svelte"
 </script>
 
 
@@ -13,3 +14,4 @@
 <FeatureOne/>
 <FeatureEleven/>
 <FeatureFive/>
+<FeatureWhy/>

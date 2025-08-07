@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f6eda5b-479f-40b7-affc-94aa5b2bd63b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/lib/blocks/feature-five.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/blocks/feature-five.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/blocks/feature-whysafelock.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/features/+page.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/features/+page.svelte" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +55,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "/Users/ryanabraham/Downloads/SafeLockWebsite",
+    "last_opened_file_path": "C:/Users/Ryan/WebstormProjects/SafeLockWebsite/src/lib/blocks",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -66,6 +68,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ryan\WebstormProjects\SafeLockWebsite\src\lib\blocks" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/static" />
       <recent name="$PROJECT_DIR$/src/routes/blog/[slug]" />
