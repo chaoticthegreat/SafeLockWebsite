@@ -4,7 +4,7 @@
   import {Fingerprint, ShieldCheck, Smartphone, BatteryCharging} from "@lucide/svelte";
 </script>
 
-<section class="bg-zinc-50 py-16 md:py-32 dark:bg-transparent" id ="more" >
+<section class=" py-16 md:py-32 dark:bg-transparent" id ="more" >
   <div class="@container mx-auto max-w-5xl px-6">
     <div class="text-center">
       <h2 class="text-balance text-4xl font-semibold lg:text-5xl">
@@ -17,11 +17,11 @@
     <div
       class="@min-4xl:max-w-full @min-4xl:grid-cols-3 mx-auto mt-8 grid max-w-sm gap-6 *:text-center md:mt-16"
     >
-      <Card class="group shadow-zinc-950/5">
+      <Card class="group bg-transparent  border-none">
         <CardHeader class="">
           <CardDecorator>
 <!--            <Zap class="size-6" aria-hidden />-->
-            <Fingerprint class="size-6" aria-hidden/>
+            <Fingerprint class="size-32" aria-hidden/>
           </CardDecorator>
 
           <h3 class="mt-6 font-bold text-2xl">Biometric Access</h3>
@@ -33,7 +33,7 @@
           </p>
         </CardContent>
       </Card>
-        <Card class="group shadow-zinc-950/5 ">
+        <Card class="group bg-transparent  border-none">
             <CardHeader class="">
                 <img
                         class="rounded-(--radius) rotate-y-6 pt-10"
@@ -48,10 +48,10 @@
 
         </Card>
 
-      <Card class="group shadow-zinc-950/5">
+      <Card class="group bg-transparent  border-none">
         <CardHeader class="">
           <CardDecorator>
-            <ShieldCheck class="size-6" aria-hidden />
+            <ShieldCheck class="size-32" aria-hidden />
           </CardDecorator>
 
           <h3 class="mt-6 font-bold text-2xl">Tamper-Proof Design</h3>
@@ -64,10 +64,10 @@
         </CardContent>
       </Card>
 
-      <Card class="group shadow-zinc-950/5">
+      <Card class="group bg-transparent  border-none">
         <CardHeader class="pb">
           <CardDecorator>
-            <BatteryCharging class="size-6" aria-hidden />
+            <BatteryCharging class="size-32" aria-hidden />
           </CardDecorator>
 
           <h3 class="mt-6 font-bold text-2xl">Battery and Failsafe</h3>
@@ -79,7 +79,7 @@
           </p>
         </CardContent>
       </Card>
-        <Card class="group shadow-zinc-950/5 ">
+        <Card class="group bg-transparent  border-none">
             <CardHeader class="pt-16">
                 <img
                         class="rounded-(--radius) rotate-y-6 pt-10"
@@ -93,10 +93,10 @@
 
 
         </Card>
-      <Card class="group shadow-zinc-950/5">
+      <Card class="group bg-transparent  border-none">
         <CardHeader class="">
           <CardDecorator>
-            <Smartphone class="size-6" aria-hidden />
+            <Smartphone class="size-32" aria-hidden />
           </CardDecorator>
 
           <h3 class="mt-6 font-bold text-2xl">Companion App</h3>
