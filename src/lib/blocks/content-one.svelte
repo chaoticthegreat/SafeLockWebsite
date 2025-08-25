@@ -6,21 +6,15 @@
         <h2 class="relative z-10 max-w-xl text-4xl font-medium lg:text-5xl">
             A Modern Solution for a Safer Tomorrow
         </h2>
-        <div class="grid gap-6 sm:grid-cols-2 md:gap-12 lg:gap-24">
-            <div class="relative mb-6 sm:mb-0">
-                <!--        <div-->
-                <!--          class="bg-linear-to-b aspect-76/59 relative rounded-2xl from-zinc-300 to-transparent p-px dark:from-zinc-700"-->
-                <!--        >-->
+        <div class="grid gap-3 sm:grid-cols-10 md:gap-6 lg:gap-12">
+            <div class="sm:col-span-5">
                 <img
                         src="/SafeLock2.png"
-                        class="rounded-[15px] shadow"
+                        class="w-full h-auto rounded-[15px] shadow"
                         alt="payments illustration light"
-                        width={1207}
-                        height={929}
                 />
-                <!--        </div>-->
             </div>
-            <div class="relative space-y-4">
+            <div class="relative space-y-4 sm:col-span-5">
                 <h2 class="relative z-10 max-w-xl text-3xl font-bold lg:text-4xl">
                     Meet Safelock
                 </h2>

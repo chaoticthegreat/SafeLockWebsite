@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f6eda5b-479f-40b7-affc-94aa5b2bd63b" name="Changes" comment="" />
+    <list default="true" id="1f6eda5b-479f-40b7-affc-94aa5b2bd63b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/blocks/content-one.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/blocks/content-one.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/blocks/testimonial-two.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/blocks/testimonial-two.svelte" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,12 +33,12 @@
     &quot;assignee&quot;: &quot;chaoticthegreat&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/chaoticthegreat/SafeLockWebsite.git",
-    "accountId": "02dc6470-0fef-432d-978f-b5e007eb0385"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/chaoticthegreat/SafeLockWebsite.git&quot;,
+    &quot;accountId&quot;: &quot;02dc6470-0fef-432d-978f-b5e007eb0385&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -101,6 +105,7 @@
       <workItem from="1754337821294" duration="5396000" />
       <workItem from="1754503715772" duration="647000" />
       <workItem from="1754695068750" duration="14000" />
+      <workItem from="1756085607551" duration="921000" />
     </task>
     <servers />
   </component>
@@ -111,5 +116,17 @@
         <option value="$PROJECT_DIR$/src/lib/utils.js" />
       </list>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/lib/blocks/testimonial-two.svelte</url>
+          <line>67</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

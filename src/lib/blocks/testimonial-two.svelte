@@ -49,8 +49,8 @@
     };
 </script>
 
-<section class="py-16 md:py-32" on:keydown={handleKey} tabindex="0">
-    <div class="mx-auto max-w-4xl px-6 text-center space-y-12">
+<section class="py-4 md:py-16" on:keydown={handleKey} tabindex="0">
+    <div class="mx-auto max-w-4xl px-6 text-center space-y-2">
 
         <div class="relative">
             {#each testimonials as t, i}
