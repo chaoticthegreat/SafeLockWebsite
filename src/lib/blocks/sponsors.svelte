@@ -44,6 +44,17 @@
                                 src="https://assets.biola.edu/4396738754672012438/attachment/5fa43caf97f6410001fb2a8a/preferred-logo-horizontal.jpg"
                                 alt="Biola University Logo"
                         />
+                        <img
+                                class="h-30 w-fit rounded-2xl hover:scale-125 transition-transform duration-300"
+                                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQT2kq1nCfnSfDqxRTw21G9s0HYMHEkyZELg&s"
+                                alt="SVYEP Logo"
+                        />
+                        <img
+                                class="h-30 w-fit rounded-2xl hover:scale-125 transition-transform duration-300"
+                                src="https://pbs.twimg.com/media/GuOTX8lWQAA52dD.jpg"
+                                alt="Berkeley Summit House Logo"
+                        />
+
                     </div>
                 </div>
             {:else if sections[current] === "awards"}
@@ -55,6 +66,7 @@
                         <li class="flex items-center gap-3"><Crown class="text-yellow-500  size-5" /> <span>3rd Place Global Blue Ocean Competition</span></li>
                         <li class="flex items-center gap-3"><Crown class="text-yellow-500  size-5" /> <span>2x Diamond Challenge Global Semi-finalist</span></li>
                         <li class="flex items-center gap-3"><Crown class="text-yellow-500  size-5" /> <span>2x Conrad Challenge Innovator Award</span></li>
+                        <li class="flex items-center gap-3"><Crown class="text-yellow-500  size-5" /> <span>2nd Place Youth Venture Business Challenge</span></li>
                     </ul>
                 </div>
             {/if}
