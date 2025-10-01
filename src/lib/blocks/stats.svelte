@@ -4,9 +4,14 @@
     const stats = [
         { value: '40,000+', description: 'are killed by guns every year' },
         { value: '27,000+', description: 'die by gun suicide every year' },
+    ];
+
+    const stats2 = [
         { value: '2,800+', description: 'children died from unintentional shootings in the past decade' },
         { value: '4.8M', description: 'live in homes with loaded, unlocked guns' },
     ];
+
+
 </script>
 
 <section class="text-white font-sans py-20 sm:py-28">
@@ -18,33 +23,41 @@
             </h2>
         </div>
 
-        <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center">
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-12 lg:gap-16 items-center justify-center">
 
-            <div class="grid grid-cols-1 sm:grid-cols-2 gap-x-8 gap-y-24">
+            <div class="flex flex-col gap-y-24">
                 {#each stats as stat}
-                    <div>
-                        <p class="text-6xl font-bold text-emerald-400">{stat.value}</p>
-                        <p class="mt-2 text-base text-gray-300">{stat.description}</p>
+                    <div class="">
+                        <p class="text-7xl font-bold text-emerald-400">{stat.value}</p>
+                        <p class="mt-2 text-xl text-gray-300">{stat.description}</p>
+                    </div>
+                {/each}
+            </div>
+            <div class="flex flex-col gap-y-16">
+                {#each stats2 as stat}
+                    <div class="">
+                        <p class="text-7xl font-bold text-emerald-400">{stat.value}</p>
+                        <p class="mt-2 text-xl text-gray-300">{stat.description}</p>
                     </div>
                 {/each}
             </div>
 
-            <div class="flex flex-col space-y-4">
+            <div class="flex flex-col space-y-4 w-fit items-center">
 
-                <div class="bg-background/60 border border-gray-800 p-8 rounded-xl">
+                <div class="bg-background/60 border border-gray-800 p-8 rounded-xl w-fit">
                     <p class="text-lg font-medium text-gray-300">Locking guns is key...</p>
                     <p class="text-6xl sm:text-7xl font-bold text-white my-2">
                         85%
                     </p>
-                    <p class="text-xl font-medium text-emerald-400">fewer injuries</p>
+                    <p class="text-xl font-medium text-emerald-400">fewer injuries with locked guns</p>
                 </div>
 
-                <div class="bg-background/60 border border-gray-800 p-8 rounded-xl">
+                <div class="bg-background/60 border border-gray-800 p-8 rounded-xl w-fit ">
                     <p class="text-lg font-medium text-gray-300">However...</p>
                     <p class="text-6xl sm:text-7xl font-bold text-white my-2">
                         45%
                     </p>
-                    <p class="text-xl font-medium text-emerald-400">don't lock due to fear of delay</p>
+                    <p class="text-xl font-medium text-emerald-400">don't lock due to fear of delays </p>
                 </div>
 
             </div>
