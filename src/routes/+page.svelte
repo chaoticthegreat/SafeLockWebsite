@@ -8,6 +8,7 @@
     import ContactUs from "$lib/blocks/contact-us.svelte";
     import Sponsors from "$lib/blocks/sponsors.svelte";
     import Video from "$lib/blocks/video.svelte";
+    import Stats from "$lib/blocks/stats.svelte";
 </script>
 
 <svelte:head>
@@ -16,6 +17,7 @@
 
 <div>
 	<HeroSix/>
+    <Stats/>
 	<ContentOne/>
     <Sponsors/>
     <Video/>
