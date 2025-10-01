@@ -22,6 +22,5 @@
     <Sponsors/>
     <Video/>
 	<TestimonialTwo/>
-	<TeamTwo/>
 	<ContactUs/>
 </div>

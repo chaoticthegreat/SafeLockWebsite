@@ -10,6 +10,7 @@ import Button from '../ui/button/button.svelte';
 	let menuItems = [
 	{ name: "Features", href: "/features" },
 	{ name: "Blog", href: "/blog" },
+            { name: "About", href: "/about" },
 	];
 	let menuState = $state(false);
 	setMode("dark");
