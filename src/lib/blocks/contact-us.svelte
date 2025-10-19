@@ -14,24 +14,15 @@
       <form action="" class="mx-auto mt-10 max-w-sm lg:mt-12">
 
           <div class="md:pr-1.5 lg:pr-0">
-            <Button  aria-label="submit" class="rounded-(--radius) py-6 px-10" href="https://forms.gle/iKnK2U7AwRsySWqU9">
-              <span class="hidden md:block text-lg">Fill out this form</span>
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                width="24"
-                height="24"
-                viewBox="0 0 24 24"
-                fill="none"
-                stroke="currentColor"
-                stroke-width="2"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-                class="relative mx-auto size-5 md:hidden"
-                ><path
-                  d="M3.714 3.048a.498.498 0 0 0-.683.627l2.843 7.627a2 2 0 0 1 0 1.396l-2.842 7.627a.498.498 0 0 0 .682.627l18-8.5a.5.5 0 0 0 0-.904z"
-                /><path d="M6 12h16" /></svg
-              >
-            </Button>
+
+              <div class="pt-8">
+                  <a
+                          href="https://forms.gle/iKnK2U7AwRsySWqU9"
+                          class="inline-flex items-center px-8 py-3 text-lg font-semibold text-white bg-blue-600 rounded-lg hover:bg-blue-700 transition-colors duration-200 shadow-lg hover:shadow-xl transform hover:-translate-y-0.5 transition-transform"
+                  >
+                      Contact Us
+                  </a>
+              </div>
           </div>
       </form>
     </div>
