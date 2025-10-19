@@ -49,7 +49,7 @@
         class="border-l-2 border-green-100 pl-6 dark:border-green-900 md:border-l md:text-center lg:border-gray-200 lg:first:border-none lg:dark:border-gray-800"
       >
         <dd
-          class="inline-block bg-gradient-to-t from-green-900 to-green-600 bg-clip-text text-5xl font-bold tracking-tight text-transparent dark:from-green-700 dark:to-green-400 lg:text-6xl"
+          class="inline-block bg-gradient-to-t favi-green bg-clip-text text-5xl font-bold tracking-tight text-transparent  lg:text-6xl"
         >
           {stat.value}
         </dd>
@@ -60,3 +60,9 @@
     {/each}
   </dl>
 </div>
+
+<style>
+    .favi-green {
+        color: #b2c671;
+    }
+</style>

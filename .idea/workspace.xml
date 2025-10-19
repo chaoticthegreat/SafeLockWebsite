@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f6eda5b-479f-40b7-affc-94aa5b2bd63b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/blocks/stats.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/blocks/stats.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/blocks/feature-eleven.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/blocks/feature-eleven.svelte" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,6 +106,7 @@
       <workItem from="1754695068750" duration="14000" />
       <workItem from="1756085607551" duration="1272000" />
       <workItem from="1759284408351" duration="2654000" />
+      <workItem from="1760904350218" duration="284000" />
     </task>
     <servers />
   </component>

@@ -28,7 +28,7 @@
             <div class="flex flex-col gap-y-24">
                 {#each stats as stat}
                     <div class="">
-                        <p class="text-7xl font-bold text-emerald-400">{stat.value}</p>
+                        <p class="text-7xl font-bold favi-green">{stat.value}</p>
                         <p class="mt-2 text-xl text-gray-300">{stat.description}</p>
                     </div>
                 {/each}
@@ -36,7 +36,7 @@
             <div class="flex flex-col gap-y-16">
                 {#each stats2 as stat}
                     <div class="">
-                        <p class="text-7xl font-bold text-emerald-400">{stat.value}</p>
+                        <p class="text-7xl font-bold favi-green">{stat.value}</p>
                         <p class="mt-2 text-xl text-gray-300">{stat.description}</p>
                     </div>
                 {/each}
@@ -49,7 +49,7 @@
                     <p class="text-6xl sm:text-7xl font-bold text-white my-2">
                         85%
                     </p>
-                    <p class="text-xl font-medium text-emerald-400">fewer injuries with locked guns</p>
+                    <p class="text-xl font-medium favi-green">fewer injuries with locked guns</p>
                 </div>
 
                 <div class="bg-background/60 border border-gray-800 p-8 rounded-xl w-fit ">
@@ -57,10 +57,16 @@
                     <p class="text-6xl sm:text-7xl font-bold text-white my-2">
                         45%
                     </p>
-                    <p class="text-xl font-medium text-emerald-400">don't lock due to fear of delays </p>
+                    <p class="text-xl font-medium favi-green">don't lock due to fear of delays </p>
                 </div>
 
             </div>
         </div>
     </div>
 </section>
+
+<style>
+    .favi-green {
+        color: #b2c671;
+    }
+</style>
