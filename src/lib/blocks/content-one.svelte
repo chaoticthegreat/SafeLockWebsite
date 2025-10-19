@@ -9,7 +9,7 @@
         <div class="grid gap-3 sm:grid-cols-10 md:gap-6 lg:gap-12">
             <div class="sm:col-span-5">
                 <img
-                        src="/SafeLock2.png"
+                        src="/lock-img.png"
                         class="w-full h-auto rounded-[15px] shadow"
                         alt="payments illustration light"
                 />
