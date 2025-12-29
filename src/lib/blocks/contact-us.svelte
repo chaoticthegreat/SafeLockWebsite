@@ -7,9 +7,9 @@
   <div class="mx-auto max-w-5xl px-6">
     <div class="text-center">
       <h2 class="text-balance text-4xl font-semibold lg:text-5xl">
-        Contact Us
+        Join Our Waiting List
       </h2>
-      <p class="mt-4 text-xl py-4">Have questions or want to partner with us?</p>
+      <p class="mt-4 text-xl py-4">Get updates about our product immediately.</p>
 
       <form action="" class="mx-auto mt-10 max-w-sm lg:mt-12">
 
@@ -17,10 +17,10 @@
 
               <div class="pt-8">
                   <a
-                          href="https://forms.gle/iKnK2U7AwRsySWqU9"
+                          href="https://forms.gle/F84FXXHfw4zaL8WS8"
                           class="inline-flex items-center px-8 py-3 text-lg font-semibold text-white bg-blue-600 rounded-lg hover:bg-blue-700 transition-colors duration-200 shadow-lg hover:shadow-xl transform hover:-translate-y-0.5 transition-transform"
                   >
-                      Contact Us
+                      Waiting List
                   </a>
               </div>
           </div>
