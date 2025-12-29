@@ -15,7 +15,7 @@
             <div class="border-border/50 relative rounded-3xl border p-3 lg:col-span-3">
 
                     <img
-                            src="https://static.wixstatic.com/media/9c5898_773647be508d447d937a99555548d86f~mv2.png/v1/fill/w_775,h_496,al_c,q_90,enc_avif,quality_auto/Screenshot%202025-01-10%20at%202_26_edited.png"
+                            src="/whysafelock-gun.png"
                             class=" rounded-[15px] "
                             alt="payments illustration dark"
                             width={1207}

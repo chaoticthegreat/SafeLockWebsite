@@ -37,7 +37,7 @@
             <CardHeader class="">
                 <img
                         class="rounded-(--radius) rotate-y-6 pt-10"
-                        src="https://static.wixstatic.com/media/9c5898_acb9602d18314922955ea18187f6a686~mv2.png/v1/fill/w_826,h_862,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/Screenshot%202025-01-10%20at%208_14_edited.png"
+                        src="/features-gun.png"
                         alt="team image"
                         height=""
                         width=""
@@ -83,7 +83,7 @@
             <CardHeader class="pt-16">
                 <img
                         class="rounded-(--radius) rotate-y-6 pt-10"
-                        src="https://static.wixstatic.com/media/9c5898_8b94c800cfa94ee4adb8ae2737327032~mv2.png/v1/fill/w_638,h_514,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Screenshot%202025-01-07%20at%2011_14_edited_pn.png"
+                        src="/features-lock.png"
                         alt="team image"
                         height=""
                         width=""
