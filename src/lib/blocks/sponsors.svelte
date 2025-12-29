@@ -1,6 +1,53 @@
 <script>
+    import { onMount } from 'svelte';
     import {Crown} from "@lucide/svelte";
+
+    let displayedAmount = 0;
+    const targetAmount = 8500;
+    const duration = 5000; // 2 seconds
+    let sectionEl;
+    let animationStarted = false;
+
+    const easeOutExpo = (t) => {
+        return t === 1 ? 1 : 1 - Math.pow(2, -10 * t);
+    }
+
+    onMount(() => {
+        const observer = new IntersectionObserver(
+            (entries) => {
+                if (entries[0].isIntersecting && !animationStarted) {
+                    animationStarted = true;
+                    const startTime = Date.now();
+
+                    const updateAmount = () => {
+                        const elapsedTime = Date.now() - startTime;
+                        if (elapsedTime < duration) {
+                            const progress = easeOutExpo(elapsedTime / duration);
+                            displayedAmount = Math.ceil(progress * targetAmount);
+                            requestAnimationFrame(updateAmount);
+                        } else {
+                            displayedAmount = targetAmount;
+                        }
+                    };
+                    requestAnimationFrame(updateAmount);
+                }
+            },
+            { threshold: 0.5 }
+        );
+
+        observer.observe(sectionEl);
+
+        return () => observer.disconnect();
+    });
 </script>
+
+<section bind:this={sectionEl} class="py-4 md:py-4 text-center">
+    <div class="mx-auto max-w-5xl px-6">
+        <h2 class="text-7xl font-bold favi-green mb-4">
+            ${displayedAmount.toLocaleString()} Raised
+        </h2>
+    </div>
+</section>
 
 <section class="py-16 md:py-32">
     <div class="mx-auto max-w-5xl px-6 space-y-12">
@@ -52,3 +99,10 @@
         </div>
     </div>
 </section>
+
+
+<style>
+    .favi-green {
+        color: #b2c671;
+    }
+</style>
