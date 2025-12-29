@@ -22,6 +22,7 @@
         link: "text-primary underline-offset-4 hover:underline",
         neutral: "bg-foreground text-background hover:brightness-95",
         mdefault: 'bg-primary text-primary-foreground hover:brightness-95',
+        blue: 'bg-blue-600 text-white hover:bg-blue-700 shadow-md'
       },
       size: {
         default: "h-9 px-4 py-2",

@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f6eda5b-479f-40b7-affc-94aa5b2bd63b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/lib/blocks/contact-us.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/blocks/contact-us.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/blocks/header.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/blocks/header.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/ui/button/button.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/ui/button/button.svelte" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,6 +110,8 @@
       <workItem from="1756085607551" duration="1272000" />
       <workItem from="1759284408351" duration="2654000" />
       <workItem from="1760904350218" duration="1008000" />
+      <workItem from="1767048090064" duration="1191000" />
+      <workItem from="1767049311048" duration="322000" />
     </task>
     <servers />
   </component>
@@ -118,5 +122,13 @@
         <option value="$PROJECT_DIR$/src/lib/utils.js" />
       </list>
     </option>
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
   </component>
 </project>
