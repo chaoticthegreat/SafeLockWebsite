@@ -48,7 +48,7 @@
                     <div class="group relative overflow-hidden">
                         <!-- Member Image -->
                         <img
-                                class="h-96 w-full rounded-md object-cover object-top transition-all duration-500 group-hover:h-[22.5rem] group-hover:rounded-xl"
+                                class="h-96 w-full rounded-md object-cover object-top"
                                 src={member.avatar}
                                 alt="team member"
                                 width="826"
@@ -75,7 +75,7 @@
                         <div class="px-2 pt-2 sm:pb-0 sm:pt-4">
                             <div class="flex justify-between items-center">
                                 <h3
-                                        class="text-title text-base font-medium transition-all duration-500 group-hover:tracking-wider"
+                                        class="text-title text-base font-medium"
                                 >
                                     {member.name}
                                 </h3>
@@ -87,7 +87,7 @@
                             </div>
                             <div class="mt-1 flex items-center justify-between">
         <span
-                class="text-muted-foreground inline-block translate-y-6 text-sm opacity-0 transition duration-300 group-hover:translate-y-0 group-hover:opacity-100"
+                class="text-muted-foreground inline-block text-sm"
         >{member.role}</span
         >
                             </div>
