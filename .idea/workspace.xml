@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f6eda5b-479f-40b7-affc-94aa5b2bd63b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/lib/blocks/team-two.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/blocks/team-two.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/blocks/hero-six.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/blocks/hero-six.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/ui/button/button.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/ui/button/button.svelte" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +116,7 @@
       <workItem from="1767050643827" duration="1387000" />
       <workItem from="1767416496478" duration="29000" />
       <workItem from="1767637879340" duration="349000" />
-      <workItem from="1767638242661" duration="1357000" />
+      <workItem from="1767638242661" duration="1799000" />
     </task>
     <servers />
   </component>
