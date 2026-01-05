@@ -67,13 +67,17 @@
                                 <!--                  />-->
 
                                 <div class="md:pr-1.5 lg:pr-0">
-                                    <Button  variant="blue" href="https://forms.gle/iKnK2U7AwRsySWqU9" aria-label="submit" class="rounded-(--radius)">
-                                        <span class="hidden md:block">Support Us</span>
+                                    <Button  variant="blue" href="https://forms.gle/F84FXXHfw4zaL8WS8" aria-label="submit" class="rounded-(--radius)">
+                                        <span class="hidden md:block">Get Early Access</span>
                                         <SendHorizonal
                                                 class="relative mx-auto size-5 md:hidden"
                                                 strokeWidth={2}
                                         />
                                     </Button>
+                                    <p class="mt-4">
+                                        Join the 750+ other people on the wailist.
+                                    </p>
+
                                 </div>
                                 <!--                </div>-->
                             </form>
