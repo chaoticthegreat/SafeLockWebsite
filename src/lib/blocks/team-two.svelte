@@ -4,13 +4,13 @@
     const members = [
         {
             name: "Vivian Zhang",
-            role: "Advisor + Cofounder",
+            role: "Advisor + Co-Founder",
             avatar: "https://static.wixstatic.com/media/9c5898_8d015d4287e64cf7b99300ee7eedddd3~mv2.jpg/v1/crop/x_0,y_36,w_768,h_864/fill/w_528,h_594,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Screenshot%202025-01-10%20at%202_46_edited.jpg",
             bio: "With a strong academic foundation, Vivian complements her studies with real-world experience, such as serving as Marketing Director for Valley Christian DECA, where she has mentored students, managed social media platforms, and led successful campaigns. Vivian's exceptional talents are reflected in her awards, including 1st Place at the Nationally Global Entrepreneurship Competition, 4th Place at DECA's International Career Development Conference, and 1st Place in the Harvard Crimson Global Case Competition. Beyond these, Vivian has held leadership roles such as VP of Finance for Walley’s Student Store, generating over $40,000 in revenue in the 23-24 school year.",
         },
         {
             name: "Hannah Li",
-            role: "Chief Executive Officer (CEO) + Chief Financial Officer (CFO)",
+            role: "Chief Executive Officer (CEO) + Co-Founder",
             avatar: "https://static.wixstatic.com/media/6a4e77_212e2e7a9a8f4bf4a16341da812599e6~mv2.jpg/v1/crop/x_0,y_66,w_1251,h_1408/fill/w_528,h_594,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/omag.jpg",
             bio: "Hannah channels her passion for advocacy and innovation into driving meaningful change. As the first debater from her school to qualify for the prestigious Tournament of Champions and ranked as high as 13th in the nation, she frequently tackles pressing societal issues like gun violence, using SafeLock as a platform to transform advocacy into real-world solutions. Her dedication and innovative spirit are exemplified by her 1st place win in the Harvard Global Case Competition, 7th Place at the DECA International Career Development Conference, 7th Place National Debate Speaker Award, and leadership roles as iStart Valley Youth Innovation Director, Debate Content Lead, Mock Trial Secretary, and DECA Curriculum Officer.",
         },
