@@ -38,7 +38,7 @@
             </div>
             <div class="mt-6 sm:mt-0">
                 <p class="text-xl">
-                    We're committed in working towards a safer, more secure future.
+                    The SafeLock team formed from a shared commitment to addressing gun violence, driven by personal experiences with two mall shootings, Code Red school lockdowns, and headlines of gun violence nationwide. Together, we’re committed to working towards a safer, more secure future.
                 </p>
             </div>
         </div>
