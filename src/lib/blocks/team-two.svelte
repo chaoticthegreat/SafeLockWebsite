@@ -4,27 +4,27 @@
     const members = [
         {
             name: "Vivian Zhang",
-            role: "Team Lead",
+            role: "Advisor + Cofounder",
             avatar: "https://static.wixstatic.com/media/9c5898_8d015d4287e64cf7b99300ee7eedddd3~mv2.jpg/v1/crop/x_0,y_36,w_768,h_864/fill/w_528,h_594,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Screenshot%202025-01-10%20at%202_46_edited.jpg",
             bio: "With a strong academic foundation, Vivian complements her studies with real-world experience, such as serving as Marketing Director for Valley Christian DECA, where she has mentored students, managed social media platforms, and led successful campaigns. Vivian's exceptional talents are reflected in her awards, including 1st Place at the Nationally Global Entrepreneurship Competition, 4th Place at DECA's International Career Development Conference, and 1st Place in the Harvard Crimson Global Case Competition. Beyond these, Vivian has held leadership roles such as VP of Finance for Walley’s Student Store, generating over $40,000 in revenue in the 23-24 school year.",
         },
         {
             name: "Hannah Li",
-            role: "Marketing and Finance Lead",
+            role: "Chief Executive Officer (CEO) + Chief Financial Officer (CFO)",
             avatar: "https://static.wixstatic.com/media/6a4e77_212e2e7a9a8f4bf4a16341da812599e6~mv2.jpg/v1/crop/x_0,y_66,w_1251,h_1408/fill/w_528,h_594,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/omag.jpg",
             bio: "Hannah channels her passion for advocacy and innovation into driving meaningful change. As the first debater from her school to qualify for the prestigious Tournament of Champions and ranked as high as 13th in the nation, she frequently tackles pressing societal issues like gun violence, using SafeLock as a platform to transform advocacy into real-world solutions. Her dedication and innovative spirit are exemplified by her 1st place win in the Harvard Global Case Competition, 7th Place at the DECA International Career Development Conference, 7th Place National Debate Speaker Award, and leadership roles as iStart Valley Youth Innovation Director, Debate Content Lead, Mock Trial Secretary, and DECA Curriculum Officer.",
         },
         {
             name: "Pranav Swaminathan",
-            role: "Hardware Lead",
+            role: "Chief Technical Officer (CTO) - Hardware",
             avatar: "https://static.wixstatic.com/media/9c5898_325bed39b2024fae8e532467a4ee5efb~mv2.webp/v1/fill/w_528,h_594,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Jan%209%20Screenshot%20from%20Discord.webp",
             bio: "A robotics enthusiast with over five years of experience, Pranav has instructed over 160 high school students in India in STEM, sharing his expertise and passion for the field. He is fluent in the CAD platform OnShape and excels in rapid prototyping, particularly with soldering and 3D printing along with his extensive experience in circuit design. An award-winning participant in the DELL Tech Challenge (Outstanding Overall) and a Diamond Challenge semifinalist for designing a biodegradable battery, Pranav was formerly the mechanical and innovation project co-lead of FLL Team 25 WarriorBots and is now an active member of FRC Team 3256 WarriorBorgs. Currently, he is designing prosthetics for mobility-impaired cows in India and serves as co-founder and CEO of  a Bay Area-based robotics education company focused on serving low-income communities.",
         },
         {
             name: "Ryan Abraham",
-            role: "Software Lead",
+            role: "Chief Technical Officer (CTO) - Software",
             avatar: "/ryan.jpg",
-            bio: "Ryan develops and maintains the software architecture for all our systems.",
+            bio: "A robotics-focused student engineer with hands-on experience across software, hardware, and systems design, Ryan has contributed extensively to competitive robotics through FRC, with a strong emphasis on controls, software architecture, and subsystem integration. He has built full-stack engineering projects combining Flask, OpenCV, and PyTorch for real-time webcam and audio/image classification, and is fluent in rapid prototyping and iterative design. Actively pursuing leadership roles such as Software Lead in FRC, Ryan brings a systems-level mindset, strong problem-solving skills, and a passion for building technology that is reliable, user-centered, and impactful.",
         },
     ];
 </script>
