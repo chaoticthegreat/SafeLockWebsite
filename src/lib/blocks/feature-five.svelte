@@ -1,5 +1,5 @@
 <script>
-  import {MapPinHouse, BellRing, Logs} from "@lucide/svelte";
+  import {MapPinHouse, BellRing, Logs, Settings} from "@lucide/svelte";
 </script>
 
 <section class="py-16 md:py-16">
@@ -17,18 +17,29 @@
             The SafeLock app is your ultimate tool for firearm accountability and control. The SafeLock app is your ultimate tool for firearm accountability and control.
           </p>
         </div>
-        <ul class="mt-8 divide-y border-y *:flex *:items-center *:gap-3 *:py-3 text-xl">
-          <li>
+        <ul class="mt-8 divide-y border-y *:py-3 text-xl">
+          <li class="flex items-center gap-3">
             <MapPinHouse class="size-5" />
             Real Time Location Tracking
           </li>
-          <li>
+          <li class="flex items-center gap-3">
             <BellRing class="size-5" />
             Instant Notifications Of Lock Activity
           </li>
-          <li>
+          <li class="flex items-center gap-3">
             <Logs class="size-5" />
             Detailed User Access Logs
+          </li>
+          <li>
+            <div class="flex items-center gap-3">
+              <Settings class="size-5" />
+              Custom Profiles & Controls
+            </div>
+            <ul class="list-disc pl-12 pt-2 text-lg">
+              <li>Set access radius</li>
+              <li>Real-time access restriction</li>
+              <li>Custom alerts</li>
+            </ul>
           </li>
         </ul>
       </div>
@@ -45,13 +56,7 @@
             width={1207}
             height={929}
           />
-          <img
-            src="/app.png"
-            class="rounded-[15px] shadow dark:hidden"
-            alt="payments illustration light"
-            width={1207}
-            height={929}
-          />
+
         </div>
       </div>
     </div>
