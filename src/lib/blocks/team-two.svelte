@@ -27,7 +27,7 @@
             bio: "A robotics-focused student engineer with hands-on experience across software, hardware, and systems design, Ryan has contributed extensively to competitive robotics through FRC, with a strong emphasis on controls, software architecture, and subsystem integration. He has built full-stack engineering projects combining Flask, OpenCV, and PyTorch for real-time webcam and audio/image classification, and is fluent in rapid prototyping and iterative design. Actively pursuing leadership roles such as Software Lead in FRC, Ryan brings a systems-level mindset, strong problem-solving skills, and a passion for building technology that is reliable, user-centered, and impactful.",
         },
         {
-            name: "Joshua Zhang",
+            name: "Yichi Zhang",
             role: "Chief Product Officer (CPO)",
             avatar: "/joshua.png",
             bio: "Driven by a commitment to build solutions with a real-world impact, Yichi brings engineering experience, research expertise, and civic engagement. He is a finalist in the XPRIZE Wildfire competition, where he developed AI-based fire detection and suppression systems featured on NBC, Yahoo Finance, and Good Morning America. Yichi has also created AI systems at SalesPatriot (YC W25) and conducts research on improving neural network memory for agentic AI, focusing on autonomous systems designed for practical deployment. Beyond engineering, he serves on his city’s youth advisory council, applying his technical insight to support his community and spearhead innovative policies.",
