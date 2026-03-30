@@ -38,6 +38,13 @@
 
 <section class="bg-gray-50 py-16 md:py-32 dark:bg-transparent">
     <div class="mx-auto max-w-5xl border-t px-6">
+        <div class="mt-12 md:mt-24">
+            <img
+                class="aspect-video w-full rounded-lg object-cover"
+                src="/teamphoto.png"
+                alt="Team photo placeholder"
+            />
+        </div>
         <div class="mt-12 gap-4 sm:grid sm:grid-cols-2 md:mt-24">
             <div class="sm:w-2/5">
                 <h2 class="text-3xl font-bold sm:text-4xl">Meet the Team</h2>
@@ -85,10 +92,11 @@
                                 >
                                     {member.name}
                                 </h3>
-                                <a
+                                <button
+                                        type="button"
                                         class="text-sm text-blue-600 hover:underline"
                                         on:click={() => (selected = index)}
-                                >Learn more</a
+                                >Learn more</button
                                 >
                             </div>
                             <div class="mt-1 flex items-center justify-between">

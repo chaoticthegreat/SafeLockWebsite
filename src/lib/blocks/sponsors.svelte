@@ -3,7 +3,7 @@
     import {Crown} from "@lucide/svelte";
 
     let displayedAmount = 0;
-    const targetAmount = 8500;
+    const targetAmount = 14550;
     const duration = 5000; // 2 seconds
     let sectionEl;
     let animationStarted = false;
@@ -80,6 +80,13 @@
                             src="https://pbs.twimg.com/media/GuOTX8lWQAA52dD.jpg"
                             alt="Berkeley Summit House Logo"
                     />
+                    <img
+                            class="h-30 w-fit rounded-2xl hover:scale-125 transition-transform duration-300"
+                            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR1kBPPssI2yf_qnAR5oV9_CFPs5b6CN3W9Q&s"
+                            alt="Austin Christian University"
+                    />
+
+
 
                 </div>
             </div>
@@ -91,7 +98,12 @@
                     <li class="flex items-center gap-3"><Crown class="text-yellow-500 size-5 shrink-0" /> <span>2nd Place President's Business Challenge</span></li>
                     <li class="flex items-center gap-3"><Crown class="text-yellow-500 size-5 shrink-0" /> <span>3rd Place Global Blue Ocean Competition</span></li>
                     <li class="flex items-center gap-3"><Crown class="text-yellow-500 size-5 shrink-0" /> <span>2x Diamond Challenge Global Semi-finalist</span></li>
-                    <li class="flex items-center gap-3"><Crown class="text-yellow-500 size-5 shrink-0" /> <span>2x Conrad Challenge Innovator Award</span></li>
+
+
+                    <li class="flex items-center gap-3"><Crown class="text-yellow-500 size-5 shrink-0" /> <span>Diamond Challenge Global Finalist</span></li>
+
+                    <li class="flex items-center gap-3"><Crown class="text-yellow-500 size-5 shrink-0" /> <span>Austin Christian University Startup Accelerator Best Pitch</span></li>
+                    <li class="flex items-center gap-3"><Crown class="text-yellow-500 size-5 shrink-0" /> <span>3x Conrad Challenge Innovator Award</span></li>
                     <li class="flex items-center gap-3"><Crown class="text-yellow-500 size-5 shrink-0" /> <span>2nd Place Youth Venture Business Challenge</span></li>
                 </ul>
             </div>
