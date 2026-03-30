@@ -38,13 +38,6 @@
 
 <section class="bg-gray-50 py-16 md:py-32 dark:bg-transparent">
     <div class="mx-auto max-w-5xl border-t px-6">
-        <div class="mt-12 md:mt-24">
-            <img
-                class="aspect-video w-full rounded-lg object-cover"
-                src="/teamphoto.png"
-                alt="Team photo placeholder"
-            />
-        </div>
         <div class="mt-12 gap-4 sm:grid sm:grid-cols-2 md:mt-24">
             <div class="sm:w-2/5">
                 <h2 class="text-3xl font-bold sm:text-4xl">Meet the Team</h2>
@@ -54,6 +47,13 @@
                     The SafeLock team formed from a shared commitment to addressing gun violence, driven by personal experiences with two mall shootings, Code Red school lockdowns, and headlines of gun violence nationwide. Together, we’re committed to working towards a safer, more secure future.
                 </p>
             </div>
+        </div>
+        <div class="mt-12 md:mt-24">
+            <img
+                class="aspect-video w-full rounded-lg object-cover"
+                src="/teamphoto.png"
+                alt="Team photo placeholder"
+            />
         </div>
         <div class="mt-12 md:mt-24">
             <div class="grid gap-x-6 gap-y-12 sm:grid-cols-2 lg:grid-cols-3">

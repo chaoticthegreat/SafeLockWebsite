@@ -102,7 +102,7 @@
 
                     <li class="flex items-center gap-3"><Crown class="text-yellow-500 size-5 shrink-0" /> <span>Diamond Challenge Global Finalist</span></li>
 
-                    <li class="flex items-center gap-3"><Crown class="text-yellow-500 size-5 shrink-0" /> <span>Austin Christian University Startup Accelerator Best Pitch</span></li>
+                    <li class="flex items-center gap-3"><Crown class="text-yellow-500 size-5 shrink-0" /> <span>Austin Christian University National Best Pitch</span></li>
                     <li class="flex items-center gap-3"><Crown class="text-yellow-500 size-5 shrink-0" /> <span>3x Conrad Challenge Innovator Award</span></li>
                     <li class="flex items-center gap-3"><Crown class="text-yellow-500 size-5 shrink-0" /> <span>2nd Place Youth Venture Business Challenge</span></li>
                 </ul>
