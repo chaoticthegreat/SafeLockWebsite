@@ -74,7 +74,7 @@
                                                 strokeWidth={2}
                                         />
                                     </Button>
-                                    <Button  variant="white" href="https://c.centiment.co/cUMvYFephaJH" aria-label="submit" class="rounded-(--radius) ml-4">
+                                    <Button  variant="white" href="https://c.centiment.co/loozKCjrK6uJ" aria-label="submit" class="rounded-(--radius) ml-4">
                                         <span class="hidden md:block">Take Our Survey</span>
                                         <SendHorizonal
                                                 class="relative mx-auto size-5 md:hidden"
@@ -121,3 +121,4 @@
         </section>
     </main>
 </div>
+
