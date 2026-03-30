@@ -96,15 +96,17 @@
                 <h2 class="text-4xl font-medium lg:text-5xl">Award-Winning Concept</h2>
                 <ul class="mt-12 flex flex-col items-center md:items-start space-y-4 text-2xl">
                     <li class="flex items-center gap-3"><Crown class="text-yellow-500 size-5 shrink-0" /> <span>2nd Place President's Business Challenge</span></li>
+
+                    <li class="flex items-center gap-3"><Crown class="text-yellow-500 size-5 shrink-0" /> <span>2nd Place Youth Venture Business Challenge</span></li>
                     <li class="flex items-center gap-3"><Crown class="text-yellow-500 size-5 shrink-0" /> <span>3rd Place Global Blue Ocean Competition</span></li>
+
+                    <li class="flex items-center gap-3"><Crown class="text-yellow-500 size-5 shrink-0" /> <span>Diamond Challenge Global Finalist</span></li>
                     <li class="flex items-center gap-3"><Crown class="text-yellow-500 size-5 shrink-0" /> <span>2x Diamond Challenge Global Semi-finalist</span></li>
 
 
-                    <li class="flex items-center gap-3"><Crown class="text-yellow-500 size-5 shrink-0" /> <span>Diamond Challenge Global Finalist</span></li>
+                    <li class="flex items-center gap-3"><Crown class="text-yellow-500 size-5 shrink-0" /> <span>3x Conrad Challenge Innovator Award</span></li>
 
                     <li class="flex items-center gap-3"><Crown class="text-yellow-500 size-5 shrink-0" /> <span>Austin Christian University National Best Pitch</span></li>
-                    <li class="flex items-center gap-3"><Crown class="text-yellow-500 size-5 shrink-0" /> <span>3x Conrad Challenge Innovator Award</span></li>
-                    <li class="flex items-center gap-3"><Crown class="text-yellow-500 size-5 shrink-0" /> <span>2nd Place Youth Venture Business Challenge</span></li>
                 </ul>
             </div>
 
