@@ -3,7 +3,7 @@
     import {Crown} from "@lucide/svelte";
 
     let displayedAmount = 0;
-    const targetAmount = 14550;
+    const targetAmount = 26550;
     const duration = 5000; // 2 seconds
     let sectionEl;
     let animationStarted = false;
